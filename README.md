@@ -1,4 +1,4 @@
-# NeuroXR_API_Unity_Release
+# NeuroXR_API_Unity
 This is an API for communication between Unity project and NeuroXR software. (Get NeuroXR software: https://www.neuroxr.io/get-started)<br />
 
 It contains two folders:<br />
